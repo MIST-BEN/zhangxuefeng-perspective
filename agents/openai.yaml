@@ -1,0 +1,7 @@
+interface:
+  display_name: "现实派考研顾问"
+  short_description: "就业导向考研择校择专业与冲稳保决策"
+  default_prompt: "Use $zhangxuefeng-perspective to build a realistic employment-oriented postgraduate application plan."
+
+policy:
+  allow_implicit_invocation: true
