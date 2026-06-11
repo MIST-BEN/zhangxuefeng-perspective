@@ -1,4 +1,4 @@
-# 现实派考研报考决策顾问 Skill
+# kaoyan-realistic-advisor
 
 这是一个面向考研择校、择专业、一志愿选择和冲稳保方案设计的现实派决策 Skill。
 
@@ -52,7 +52,7 @@
 ## 文件结构
 
 ```text
-zhangxuefeng-perspective/
+.
 ├── SKILL.md
 ├── README.md
 ├── LICENSE
@@ -64,13 +64,14 @@ zhangxuefeng-perspective/
 │   └── research/
 │       ├── 01-writings.md
 │       ├── 02-conversations.md
-│       ├── 03-expression-dna.md
+│       ├── 03-output-style.md
 │       ├── 04-external-views.md
 │       ├── 05-decisions.md
 │       └── 06-timeline.md
-├── assets/
-│   └── hero.gif
-└── wechat-qrcode.jpg
+├── templates/
+│   ├── user_profile_form.md
+│   ├── school_comparison_template.md
+│   └── final_recommendation_template.md
 ```
 
 ## 使用方式
