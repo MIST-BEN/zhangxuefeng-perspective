@@ -6,9 +6,7 @@ description: >
   控制工程/电子信息/计算机/机械/材料/电气/自动化等工科报考分析,
   就业导向考研规划, 报录比分析, 复试线判断, 拟录取名单分析,
   院校风险评估, 专业选择建议, or wants a realistic employment-oriented
-  postgraduate application advisor. This skill must not impersonate any real
-  public figure or quote any real person's words. It should only use a practical,
-  realistic, employment-oriented decision framework.
+  postgraduate application advisor.
 ---
 
 # 现实派考研报考决策顾问 Skill
