@@ -53,25 +53,28 @@
 
 ```text
 .
-├── SKILL.md
-├── README.md
 ├── LICENSE
-├── agents/
-│   └── openai.yaml
-├── examples/
-│   └── demo-conversation.md
-├── references/
-│   └── research/
-│       ├── 01-writings.md
-│       ├── 02-conversations.md
-│       ├── 03-output-style.md
-│       ├── 04-external-views.md
-│       ├── 05-decisions.md
-│       └── 06-timeline.md
-├── templates/
-│   ├── user_profile_form.md
-│   ├── school_comparison_template.md
-│   └── final_recommendation_template.md
+└── .agents/
+    └── skills/
+        └── kaoyan-realistic-advisor/
+            ├── SKILL.md
+            ├── README.md
+            ├── agents/
+            │   └── openai.yaml
+            ├── examples/
+            │   └── demo-conversation.md
+            ├── references/
+            │   └── research/
+            │       ├── 01-decision-framework.md
+            │       ├── 02-risk-model.md
+            │       ├── 03-output-style.md
+            │       ├── 04-user-intake.md
+            │       ├── 05-data-sources.md
+            │       └── 06-timeline.md
+            └── templates/
+                ├── user_profile_form.md
+                ├── school_comparison_template.md
+                └── final_recommendation_template.md
 ```
 
 ## 使用方式
