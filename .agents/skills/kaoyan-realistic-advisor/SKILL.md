@@ -1,4 +1,4 @@
----
+﻿---
 name: kaoyan-realistic-advisor
 description: >
   Use this skill when the user asks for 考研择校, 考研报考建议, 院校对比,
